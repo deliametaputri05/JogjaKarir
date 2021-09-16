@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "847280967112",
+    "project_id": "jogjakarir-f04ca",
+    "storage_bucket": "jogjakarir-f04ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847280967112:android:4e6fd646b467c3414ac4fd",
+        "android_client_info": {
+          "package_name": "com.example.jogja_karir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847280967112-6ke7pkbl9iqeibr3t87crm2lobjokdpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjc5Lx1s3Te_FkVPxDJYun00qcrGMj5ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847280967112-6ke7pkbl9iqeibr3t87crm2lobjokdpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847280967112-2e3hc5171oj6hmd2uue7e3oqp4votanf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jogjaKarir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
